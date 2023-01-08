@@ -1,0 +1,13 @@
+/* Add custom styles here */
+.nav-link {
+    color: grey;
+}
+
+.last-item {
+    margin-left: auto;
+}
+
+/* footer a {
+    color:white;
+    text-decoration: none;
+} */
